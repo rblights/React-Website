@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Website/static/css/main.67da1e20.css",
+    "main.js": "/React-Website/static/js/main.eb577888.js",
+    "static/js/453.502135d0.chunk.js": "/React-Website/static/js/453.502135d0.chunk.js",
+    "static/media/ai.png": "/React-Website/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/React-Website/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/React-Website/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/React-Website/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/React-Website/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/React-Website/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/React-Website/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/React-Website/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/React-Website/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/React-Website/index.html",
+    "main.67da1e20.css.map": "/React-Website/static/css/main.67da1e20.css.map",
+    "main.eb577888.js.map": "/React-Website/static/js/main.eb577888.js.map",
+    "453.502135d0.chunk.js.map": "/React-Website/static/js/453.502135d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67da1e20.css",
+    "static/js/main.eb577888.js"
+  ]
+}
